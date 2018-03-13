@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.1">
-  <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.skillup.mobile" version="3.4.1">
+  <name>skillup Mobile</name>
   <description>
-        Moodle Mobile official app
+        Skillup Mobile App
     </description>
   <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        Skillup Technology team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
